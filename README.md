@@ -1,1 +1,1 @@
-# xj_cotton_shapefiles
+# xinjiang_cotton_shapefiles
